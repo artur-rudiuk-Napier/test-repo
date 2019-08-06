@@ -1,3 +1,6 @@
 {
-  "hello": "Hell o"
+  "hello": [{
+      "test": 1,
+      "test2" 2
+    }]
 }
