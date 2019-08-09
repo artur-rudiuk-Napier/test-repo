@@ -1,10 +1,30 @@
 {
   "en": {
       "test": 1,
-      "test2": 2
+      "test2": 2,
+      "Common": {
+        "Showing": "Showing",
+        "Items_Available": "item available",
+        "Items_Available_plural": "items available",
+        "Show": "Show",
+        "Entries": "Entry",
+        "Entries_plural": "Entries",
+        "Previous": "Previous",
+        "Next": "Next"
+      }
     },
   "ru-ua": {
     "test": "test",
-    "test2": "test3"
+    "test2": "test3",
+      "Common": {
+        "Showing": "Показ",
+        "Items_Available": "завдання доступно",
+        "Items_Available_plural": "завданнь доступно",
+        "Show": "Відобразити",
+        "Entries": "Запис",
+        "Entries_plural": "Записи",
+        "Previous": "Назад",
+        "Next": "Далі"
+      }
   }
 }
