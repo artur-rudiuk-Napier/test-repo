@@ -1,6 +1,10 @@
 {
-  "hello": [{
+  "en": [{
       "test": 1,
       "test2": 2
-    }]
+    }],
+  "ua": {
+    "test": "test",
+    "test2": "test3"
+  }
 }
