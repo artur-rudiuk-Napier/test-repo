@@ -11,6 +11,29 @@
         "Entries_plural": "Entries",
         "Previous": "Previous",
         "Next": "Next"
+      },
+      "Task": {
+        "Owned_By": "Owned By",
+        "Type": "Type",
+        "Return_to_Backlog": "Return to Backlog",
+        "Info": "Info",
+        "Creating_Manager": "Creating Manager",
+        "Age": "Age",
+        "Created_On": "Created On",
+        "Priority": "Priority",
+        "Priority": {
+          "High": "High",
+          "Medium": "Medium",
+          "Low": "Low"
+        },
+        "Type": {
+          "Customer": "Customer",
+          "Organisation": "Organisation",
+          "Person": "Person",
+          "Customer_Review": "Customer Review",
+          "Case": "Case",
+          "Alert": "Alert"
+        }
       }
     },
   "ru-ua": {
@@ -27,7 +50,7 @@
         "Next": "Далі"
       }
   },
-  "zh_CN": {
+  "zh": {
     "test": "test",
     "test2": "test3",
       "Common": {
