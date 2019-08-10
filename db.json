@@ -21,12 +21,12 @@
         "Age": "Age",
         "Created_On": "Created On",
         "Priority": "Priority",
-        "Priority": {
+        "Priority_Enum": {
           "High": "High",
           "Medium": "Medium",
           "Low": "Low"
         },
-        "Type": {
+        "Type_Enum": {
           "Customer": "Customer",
           "Organisation": "Organisation",
           "Person": "Person",
@@ -60,12 +60,12 @@
         "Age": "Вік",
         "Created_On": "Створено",
         "Priority": "Пріорітет",
-        "Priority": {
+        "Priority_Enum": {
           "High": "Високий",
           "Medium": "Середній",
           "Low": "Низький"
         },
-        "Type": {
+        "Type_Enum": {
           "Customer": "Кліент",
           "Organisation": "Організація",
           "Person": "Персона",
@@ -97,12 +97,12 @@
         "Age": "年龄",
         "Created_On": "创建于",
         "Priority": "优先",
-        "Priority": {
+        "Priority_Enum": {
           "High": "高",
           "Medium": "介质",
           "Low": "低"
         },
-        "Type": {
+        "Type_Enum": {
           "Customer": "顾客",
           "Organisation": "组织",
           "Person": "人",
