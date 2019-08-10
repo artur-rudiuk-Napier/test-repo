@@ -26,5 +26,19 @@
         "Previous": "Назад",
         "Next": "Далі"
       }
+  },
+  "zh_CN": {
+    "test": "test",
+    "test2": "test3",
+      "Common": {
+        "Showing": "展示",
+        "Items_Available": "项目可用",
+        "Items_Available_plural": "可用的物品",
+        "Show": "节目",
+        "Entries": "条目",
+        "Entries_plural": "项",
+        "Previous": "以前",
+        "Next": "下一个"
+      }
   }
 }
