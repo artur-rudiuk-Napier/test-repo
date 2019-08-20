@@ -55,10 +55,8 @@
         "Entries_5": "Записів",
         "Previous": "Назад",
         "Next": "Далі",
-        "Actions": {
-          "Select all": "Вибрати все",
-          "Clear selection": "Очистити вибір"
-        }
+        "Select all": "Вибрати все",
+        "Clear selection": "Очистити вибір"
       },
       "Task": {
         "Owned_By": "Власник",
