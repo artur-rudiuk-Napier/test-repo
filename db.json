@@ -59,16 +59,14 @@
         "Clear selection": "Очистити вибір",
         "Type": "Тип",
         "Priority": "Пріорітет",
+        "Created On": "Створено",
         "Info": "Iнформація"
       },
       "Task": {
         "Owned By": "Власник",
-        "Type": "Тип",
         "Return_to_Backlog": "Повернути до беклогу",
         "Creating_Manager": "Створив менеджер",
         "Age": "Вік",
-        "Created_On": "Створено",
-
         "Allocate": "Закріпити {{value}} за мною",
         "Priority_Enum": {
           "High": "Високий",
