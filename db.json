@@ -56,13 +56,14 @@
         "Previous": "Назад",
         "Next": "Далі",
         "Select all": "Вибрати все",
-        "Clear selection": "Очистити вибір"
+        "Clear selection": "Очистити вибір",
+        "Type": "Тип",
+        "Info": "Iнформація",
       },
       "Task": {
-        "Owned_By": "Власник",
+        "Owned By": "Власник",
         "Type": "Тип",
         "Return_to_Backlog": "Повернути до беклогу",
-        "Info": "Iнформація",
         "Creating_Manager": "Створив менеджер",
         "Age": "Вік",
         "Created_On": "Створено",
