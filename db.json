@@ -65,7 +65,7 @@
       "Task": {
         "Owned By": "Власник",
         "Return_to_Backlog": "Повернути до беклогу",
-        "Creating_Manager": "Створив менеджер",
+        "Creating Manager": "Створив менеджер",
         "Age": "Вік",
         "Allocate": "Закріпити {{value}} за мною",
         "Priority_Enum": {
@@ -96,7 +96,7 @@
         "Owned By": "拥有者",
         "Previous": "以前",
         "Next": "下一个",
-        "Age": "年龄",
+        "Info": "信息",
         "Created On": "创建于",
         "Priority": "优先",
         "Actions": {
@@ -107,8 +107,8 @@
       "Task": {
         "Type": "类型",
         "Return_to_Backlog": "返回积压",
-        "Info": "信息",
-        "Creating_Manager": "创建经理",
+        "Age": "年龄",
+        "Creating Manager": "创建经理",
         "Allocate": "为我分配{{value}}",
         "Priority_Enum": {
           "High": "高",
