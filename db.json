@@ -93,19 +93,19 @@
         "Show": "节目",
         "Entries": "条目",
         "Entries_plural": "项",
-        "Owned By": "拥有者",
         "Previous": "以前",
         "Next": "下一个",
         "Info": "信息",
         "Created On": "创建于",
         "Priority": "优先",
+        "Type": "类型",
         "Actions": {
           "Select all": "全选",
           "Clear selection": "清空选项"
         }
       },
       "Task": {
-        "Type": "类型",
+        "Owned By": "拥有者",
         "Return_to_Backlog": "返回积压",
         "Age": "年龄",
         "Creating Manager": "创建经理",
