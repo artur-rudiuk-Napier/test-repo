@@ -46,9 +46,9 @@
     "test2": "test3",
       "Common": {
         "Showing": "Показ",
-        "Items_Available_1": "завдання доступно",
-        "Items_Available_2": "завдання доступно",
-        "Items_Available_5": "завданнь доступно",
+        "Items Available_1": "завдання доступно",
+        "Items Available_2": "завдання доступно",
+        "Items Available_5": "завданнь доступно",
         "Show": "Відобразити",
         "Entries_1": "Запис",
         "Entries_2": "Записи",
@@ -88,27 +88,27 @@
     "test2": "test3",
       "Common": {
         "Showing": "展示",
-        "Items_Available": "项目可用",
-        "Items_Available_plural": "可用的物品",
+        "Items Available": "项目可用",
+        "Items Available_plural": "可用的物品",
         "Show": "节目",
         "Entries": "条目",
         "Entries_plural": "项",
+        "Owned By": "拥有者",
         "Previous": "以前",
         "Next": "下一个",
+        "Age": "年龄",
+        "Created_On": "创建于",
+        "Priority": "优先",
         "Actions": {
           "Select all": "全选",
           "Clear selection": "清空选项"
         }
       },
       "Task": {
-        "Owned_By": "拥有者",
         "Type": "类型",
         "Return_to_Backlog": "返回积压",
         "Info": "信息",
         "Creating_Manager": "创建经理",
-        "Age": "年龄",
-        "Created_On": "创建于",
-        "Priority": "优先",
         "Allocate": "为我分配{{value}}",
         "Priority_Enum": {
           "High": "高",
