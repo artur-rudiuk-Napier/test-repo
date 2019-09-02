@@ -95,12 +95,16 @@
         "Minute_2": "хвилини",
         "Minute_5": "хвилин",
         "A few seconds": "Декiлька секунд",
-        "debit": "дебiт",
-        "credit": "кредит",
-        "Previous": "попереднiй",
-        "Current": "нинішній",
-        "credit (previous)": "кредит ($t(Common.Current))",
-        "debit (previous)": "дебiт ($t(Common.Previous))"
+        "Graphs": {
+          "debit": "дебiт",
+          "credit": "кредит",
+          "Previous": "попереднiй",
+          "Current": "нинішній",
+          "credit (previous)": "кредит",
+          "debit (previous)": "дебiт ($t(Common.Graphs.Previous))",
+          "amount": "кiлькiсть",
+          "amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))",
+        }
       },
       "Task": {
         "Owned By": "Власник",
