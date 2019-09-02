@@ -94,7 +94,13 @@
         "Minute_1": "хвилина",
         "Minute_2": "хвилини",
         "Minute_5": "хвилин",
-        "A few seconds": "Декiлька секунд"
+        "A few seconds": "Декiлька секунд",
+        "debit": "дебiт",
+        "credit": "кредит",
+        "Previous": "попереднiй",
+        "Current": "нинішній",
+        "credit (previous)": "кредит ($t(Common.Current))",
+        "debit (previous)": "дебiт ($t(Common.Previous))"
       },
       "Task": {
         "Owned By": "Власник",
