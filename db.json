@@ -103,7 +103,7 @@
           "credit (previous)": "кредит",
           "debit (previous)": "дебiт ($t(Common.Graphs.Previous))",
           "amount": "кiлькiсть",
-          "amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))",
+          "amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))"
         }
       },
       "Task": {
