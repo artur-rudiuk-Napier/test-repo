@@ -104,7 +104,15 @@
           "Credit (previous)": "кредит",
           "Debit (previous)": "дебiт ($t(Common.Graphs.Previous))",
           "Amount": "кiлькiсть",
-          "Amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))"
+          "Amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))",
+          "Count": "кiлькiсть",
+          "Review Start Date": "дата початку перегляду",
+          "Total Count": "cуммарна кiлькiсть",
+          "Credit Count": "кiлькiсть кредиту",
+          "Debit Count": "кiлькiсть дебiту",
+          "Million": "мiльйон",
+          "Billion": "мільярд",
+          "Trillion": "трильйон"
         }
       },
       "Task": {
