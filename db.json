@@ -95,9 +95,10 @@
         "Minute_2": "хвилини",
         "Minute_5": "хвилин",
         "A few seconds": "Декiлька секунд",
+        "Account": "Аккаунт",
         "Graphs": {
-          "debit": "дебiт",
-          "credit": "кредит",
+          "Debit": "дебiт",
+          "Credit": "кредит",
           "Previous": "попереднiй",
           "Current": "нинішній",
           "Credit (previous)": "кредит",
