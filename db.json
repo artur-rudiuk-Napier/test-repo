@@ -112,7 +112,8 @@
           "Debit Count": "кiлькiсть дебiту",
           "Million": "мiльйон",
           "Billion": "мільярд",
-          "Trillion": "трильйон"
+          "Trillion": "трильйон",
+          "Period": "перiод"
         }
       },
       "Task": {
