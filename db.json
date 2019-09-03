@@ -101,7 +101,7 @@
           "Credit": "кредит",
           "Previous": "попереднiй",
           "Current": "нинішній",
-          "Credit (previous)": "кредит",
+          "Credit (previous)": "кредит ($t(Common.Graphs.Previous))",
           "Debit (previous)": "дебiт ($t(Common.Graphs.Previous))",
           "Amount": "кiлькiсть",
           "Amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))",
