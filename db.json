@@ -100,10 +100,10 @@
           "credit": "кредит",
           "Previous": "попереднiй",
           "Current": "нинішній",
-          "credit (previous)": "кредит",
-          "debit (previous)": "дебiт ($t(Common.Graphs.Previous))",
-          "amount": "кiлькiсть",
-          "amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))"
+          "Credit (previous)": "кредит",
+          "Debit (previous)": "дебiт ($t(Common.Graphs.Previous))",
+          "Amount": "кiлькiсть",
+          "Amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))"
         }
       },
       "Task": {
