@@ -105,7 +105,7 @@
           "Total Currency by Alert Level": "загальна кілкість валюти по ступеням тривог",
           "Transaction Amount": "об'єм транзакцій",
           "Transaction Buckets": "розбивка транзакцій",
-          "Transaction Count:" "кількість транзакцій"
+          "Transaction Count": "кількість транзакцій"
         },
         "Graphs": {
           "Debit": "дебiт",
