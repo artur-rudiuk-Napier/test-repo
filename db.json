@@ -96,6 +96,18 @@
         "Minute_5": "хвилин",
         "A few seconds": "Декiлька секунд",
         "Account": "Аккаунт",
+        "Entities": {
+          "Account": {
+            "Account Name": "Им'я аккаунту",
+            "Account Number": "Номер аккаунту",
+            "Currency": "Валюта",
+            "Customer Number": "Номер кліента",
+            "Opening Date": "Дата відкриття",
+            "Risk Level": "Рівень риску",
+            "Status": "Статус",
+            "Type": "Тип"
+          }
+        },
         "Graphs": {
           "Debit": "дебiт",
           "Credit": "кредит",
