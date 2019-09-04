@@ -96,6 +96,17 @@
         "Minute_5": "хвилин",
         "A few seconds": "Декiлька секунд",
         "Account": "Аккаунт",
+        "Customers": {
+          "Accounts Amount": "кількість за аккаунтами",
+          "Currency In/Out": "Валюта в/з",
+          "High Risk Alerts by Week": "тривоги високого ступеню по тижням",
+          "Paid/Received Money": "заплачені/витрачені гроші",
+          "Total Amount by Currency": "загальна кількість по валютам",
+          "Total Currency by Alert Level": "загальна кілкість валюти по ступеням тривог",
+          "Transaction Amount": "об'єм транзакцій",
+          "Transaction Buckets": "розбивка транзакцій",
+          "Transaction Count:" "кількість транзакцій"
+        },
         "Graphs": {
           "Debit": "дебiт",
           "Credit": "кредит",
@@ -103,8 +114,8 @@
           "Current": "нинішній",
           "Credit (previous)": "кредит ($t(Common.Graphs.Previous))",
           "Debit (previous)": "дебiт ($t(Common.Graphs.Previous))",
-          "Amount": "кiлькiсть",
-          "Amount (previous)": "кiлькiсть ($t(Common.Graphs.Previous))",
+          "Amount": "об'єм",
+          "Amount (previous)": "об'єм ($t(Common.Graphs.Previous))",
           "Count": "кiлькiсть",
           "Review Start Date": "дата початку перегляду",
           "Total Count": "cуммарна кiлькiсть",
