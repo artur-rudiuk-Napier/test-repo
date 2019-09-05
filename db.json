@@ -96,6 +96,11 @@
         "Minute_5": "хвилин",
         "A few seconds": "Декiлька секунд",
         "Account": "Аккаунт",
+        "RiskLevels": {
+           "High": "Високий",
+           "Medium": "Середній",
+           "Low": "Низький"
+        },
         "Quick Filters": {
           "Account": {
             "Account Name": "Им'я аккаунту",
@@ -119,7 +124,20 @@
             "Opening Date": "Дата відкриття",
             "Risk Level": "Рівень риску",
             "Status": "Статус",
-            "Type": "Тип"
+            "Type": "Тип",
+            "Statuses": {
+              "Open": "Відкритий",
+              "Closed": "Закритий"
+            },
+            "Types": {
+              "Business": "Бізнес",
+              "Current": "Поточний",
+              "Dealing": "Угоди",
+              "FX": "Швидкий обмін",
+              "Loan": "Позичальний",
+              "Mortgage": "Іпотечний",
+              "Savings": "Заощаджувальний"
+            }
           }
         },
         "Graphs": {
