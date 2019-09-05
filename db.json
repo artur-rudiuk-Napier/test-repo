@@ -96,6 +96,20 @@
         "Minute_5": "хвилин",
         "A few seconds": "Декiлька секунд",
         "Account": "Аккаунт",
+        "Quick Filters": {
+          "Account": {
+            "Account Name": "Им'я аккаунту",
+            "Account Number": "Номер аккаунту",
+            "Balance": "Баланс",
+            "Closing Date": "Дата закриття",
+            "Currency": "Валюта",
+            "Opening Date": "Дата відкриття",
+            "Risk Level": "Рівень риску",
+            "Risk Score": "Оцінка ризику"
+            "Status": "Статус",
+            "Type": "Тип"
+          }
+        },
         "Entities": {
           "Account": {
             "Account Name": "Им'я аккаунту",
