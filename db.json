@@ -161,6 +161,14 @@
           "Period": "перiод"
         }
       },
+    "Filters": { 
+        "Active Filters": "Активні фильтри",
+        "Advanced filters": "Продвинуті фильтрі",
+        "Empty Filter": "Немає вибраного фільтру, виберіть опцію Створити/вибрати фільтр, будь-ласка",
+        "Quick filters": "Швидкі фільтри",
+        "Select/Create Filter": "Створити/вибрати фільтр",
+        "Table filters": "Табличні фільтри"
+      },
       "Customers": {
           "Accounts Amount": "кількість за аккаунтами",
           "Currency In/Out": "Валюта в/з",
