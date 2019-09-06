@@ -65,6 +65,7 @@
         "Entries_2": "Записи",
         "Entries_5": "Записів",
         "Previous": "Назад",
+        "Search": "Пошук",
         "Next": "Далі",
         "Select all": "Вибрати все",
         "Clear selection": "Очистити вибір",
@@ -117,12 +118,12 @@
         },
         "Entities": {
           "Account": {
-            "Account Name": "Им'я аккаунту",
-            "Account Number": "Номер аккаунту",
+            "Account Name": "Ім'я рахунку",
+            "Account Number": "Номер рахунку",
             "Currency": "Валюта",
             "Customer Number": "Номер кліента",
             "Opening Date": "Дата відкриття",
-            "Risk Level": "Рівень риску",
+            "Risk Level": "Рівень ризику",
             "Status": "Статус",
             "Type": "Тип",
             "Statuses": {
