@@ -154,7 +154,12 @@
           "ThisWeek": "Поточний тиждень",
           "ThisMonth": "Поточний місяць",
           "ThisQuarter": "Поточний квартал",
-          "ThisYear": "Поточний рік"
+          "ThisYear": "Поточний рік",
+          "Yesterday": "Вчора",
+          "LastWeek": "Минулий тиждень",
+          "LastMonth": "Минулий місяць",
+          "LastQuarter": "Минулий квартал",
+          "LastYear": "Минулий рік"
         },
         "Menu": {
           "Main": {
