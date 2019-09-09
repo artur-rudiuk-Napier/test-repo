@@ -211,6 +211,30 @@
           "ThisMonth": "Поточний місяць",
           "ThisQuarter": "Поточний квартал",
           "ThisYear": "Поточний рік"
+        },
+        "Menu": {
+          "Main": {
+            "Analytics": "Аналітика",
+            "Dashboard": "Панель приладів",
+            "Intelligent Analysis": "Інтелектуальний аналіз",
+            "Alert Management": "Управління сповіщеннями",
+            "Available Tasks": "Доступні завдання",
+            "My Tasks": "Мої завдання",
+            "Analysis": "Аналіз",
+            "Customers": "Кліенти",
+            "Accounts": "Рахунки",
+            "Search Cases": "Поушк справ",
+            "Calibration": "Калібрування",
+            "Transactions": "Операції",
+            "Client Screening": "Огляд клієнта",
+            "Thresholds": "Порогові значення",
+            "On Demand": "На вимогу"
+          },
+          "Settings": {
+            "System Admin": "Системний адміністратор",
+            "Data Ingestion": "Поглинання даних",
+            "Data Management": "Управління даними"
+          }
         }
       }
   },
