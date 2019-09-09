@@ -45,7 +45,10 @@
         "Minute_2": "хвилини",
         "Minute_5": "хвилин",
         "A few seconds": "Декiлька секунд",
-        "Account": "Аккаунт",
+        "Account": "Аккаунт", 
+        "Reset": "Скинути",
+        "Page": "Сторінка",
+        "of": "з",
         "RiskLevels": {
            "High": "Високий",
            "Medium": "Середній",
@@ -116,7 +119,21 @@
         "Empty Filter": "Немає вибраного фільтру, виберіть опцію Створити/вибрати фільтр, будь-ласка",
         "Quick filters": "Швидкі фільтри",
         "Select/Create Filter": "Створити/вибрати фільтр",
-        "Table filters": "Табличні фільтри"
+        "Table filters": "Табличні фільтри",
+        "All Of": "Всі",
+        "Any Of": "Будь-який"
+      },
+      "Files": {
+        "Attach New Documents": "Додати нові документи",
+        "Drop files here to attach them": "Рухайте файли сюди, щоб їх додати",
+        "Attached By": "Додано",
+        "Attached Date": "Дата додавання",
+        "Attaching": "Додаємо",
+        "Document": "Документ",
+        "Version": "Версія"
+      },
+      "Notes": {
+        "Attach note": "Додати нотатку"
       },
       "Customers": {
           "Accounts Amount": "кількість за аккаунтами",
