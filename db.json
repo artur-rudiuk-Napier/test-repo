@@ -50,6 +50,10 @@
         "Reset": "Скинути",
         "Page": "Сторінка",
         "of": "з",
+        "From": "з",
+        "To": "До",
+        "Clear": "Очистити",
+        "Apply": "Застосувати",
         "There are no items at this moment": "Нічого немає на данний момент",
         "RiskLevels": {
            "High": "Високий",
