@@ -49,6 +49,12 @@
           "Customer_Review": "Customer Review",
           "Case": "Case",
           "Alert": "Alert"
+        },
+        "Calendar": {
+          "Today": "Today",
+          "ThisWeek": "This week",
+          "ThisMonth": "This month",
+          "ThisQuarter": "This quartet"
         }
       }
     },
@@ -198,6 +204,13 @@
           "Customer_Review": "Оцінка кліента",
           "Case": "Справа",
           "Alert": "Тривога"
+        },
+        "Calendar": {
+          "Today": "Сьогодні",
+          "ThisWeek": "Поточний тиждень",
+          "ThisMonth": "Поточний місяць",
+          "ThisQuarter": "Поточний квартал",
+          "ThisYear": "Поточний рік"
         }
       }
   },
@@ -240,6 +253,13 @@
           "Customer_Review": "顾客评价",
           "Case": "案件",
           "Alert": "警报"
+        },
+         "Calendar": {
+          "Today": "今天",
+          "ThisWeek": "本星期",
+          "ThisMonth": "這個月",
+          "ThisQuarter": "本季度",
+          "ThisYear": "今年"
         }
       }
   }
