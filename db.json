@@ -2,68 +2,6 @@
   "en": {
       "test": 1,
       "test2": 2,
-      "Common": {
-        "Showing": "Showing",
-        "Items_Available": "item available",
-        "Items_Available_plural": "items available",
-        "Show": "Show",
-        "Entries": "Entry",
-        "Entries_plural": "Entries",
-        "Previous": "Previous",
-        "Next": "Next",
-        "Day": "day",
-        "Day_plural": "days",
-        "Month": "month",
-        "Month_plural": "months",
-        "Year": "year",
-        "Year_plural": "years",
-        "Hour": "hour",
-        "Hour_plural": "hours",
-        "Minute": "minute",
-        "Minute_plural": "minutes",
-        "A few seconds": "A few seconds",
-        "Actions": {
-          "Select all": "Select all",
-          "Clear selection": "Clear selection"
-        }
-      },
-      "Task": {
-        "Owned_By": "Owned By",
-        "Type": "Type",
-        "Return_to_Backlog": "Return to Backlog",
-        "Info": "Info",
-        "Creating_Manager": "Creating Manager",
-        "Age": "Age",
-        "Created_On": "Created On",
-        "Priority": "Priority",
-        "Allocate": "Allocate {{value}} to me",
-        "Priority_Enum": {
-          "High": "High",
-          "Medium": "Medium",
-          "Low": "Low"
-        },
-        "Type_Enum": {
-          "Customer": "Customer",
-          "Organisation": "Organisation",
-          "Person": "Person",
-          "Customer_Review": "Customer Review",
-          "Case": "Case",
-          "Alert": "Alert"
-        },
-        "Calendar": {
-          "Today": "Today",
-          "ThisWeek": "This week",
-          "ThisMonth": "This month",
-          "ThisQuarter": "This quartet"
-        }
-      },
-        "Calendar": {
-          "Today": "Сьогодні",
-          "ThisWeek": "Поточний тиждень",
-          "ThisMonth": "Поточний місяць",
-          "ThisQuarter": "Поточний квартал",
-          "ThisYear": "Поточний рік"
-        }
     },
   "uk": {
     "test": "test",
