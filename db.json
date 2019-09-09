@@ -56,7 +56,14 @@
           "ThisMonth": "This month",
           "ThisQuarter": "This quartet"
         }
-      }
+      },
+        "Calendar": {
+          "Today": "Сьогодні",
+          "ThisWeek": "Поточний тиждень",
+          "ThisMonth": "Поточний місяць",
+          "ThisQuarter": "Поточний квартал",
+          "ThisYear": "Поточний рік"
+        }
     },
   "uk": {
     "test": "test",
@@ -204,7 +211,8 @@
           "Customer_Review": "Оцінка кліента",
           "Case": "Справа",
           "Alert": "Тривога"
-        },
+        }
+      },
         "Calendar": {
           "Today": "Сьогодні",
           "ThisWeek": "Поточний тиждень",
@@ -236,7 +244,6 @@
             "Data Management": "Управління даними"
           }
         }
-      }
   },
   "zh": {
     "test": "test",
@@ -277,7 +284,8 @@
           "Customer_Review": "顾客评价",
           "Case": "案件",
           "Alert": "警报"
-        },
+        }
+      },
          "Calendar": {
           "Today": "今天",
           "ThisWeek": "本星期",
@@ -285,6 +293,5 @@
           "ThisQuarter": "本季度",
           "ThisYear": "今年"
         }
-      }
   }
 }
