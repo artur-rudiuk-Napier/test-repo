@@ -169,15 +169,15 @@
       },
         "Calendar": {
           "Today": "Сьогодні",
-          "ThisWeek": "Поточний тиждень",
-          "ThisMonth": "Поточний місяць",
-          "ThisQuarter": "Поточний квартал",
-          "ThisYear": "Поточний рік",
+          "This Week": "Поточний тиждень",
+          "This Month": "Поточний місяць",
+          "This Quarter": "Поточний квартал",
+          "This Year": "Поточний рік",
           "Yesterday": "Вчора",
-          "LastWeek": "Минулий тиждень",
-          "LastMonth": "Минулий місяць",
-          "LastQuarter": "Минулий квартал",
-          "LastYear": "Минулий рік"
+          "Last Week": "Минулий тиждень",
+          "Last Month": "Минулий місяць",
+          "Last Quarter": "Минулий квартал",
+          "Last Year": "Минулий рік"
         },
         "Menu": {
           "Main": {
@@ -247,10 +247,10 @@
       },
          "Calendar": {
           "Today": "今天",
-          "ThisWeek": "本星期",
-          "ThisMonth": "這個月",
-          "ThisQuarter": "本季度",
-          "ThisYear": "今年"
+          "This Week": "本星期",
+          "This Month": "這個月",
+          "This Quarter": "本季度",
+          "This Year": "今年"
         }
   }
 }
