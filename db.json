@@ -50,6 +50,7 @@
         "Reset": "Скинути",
         "Page": "Сторінка",
         "of": "з",
+        "There are no items at this moment": "Нічого немає на данний момент",
         "RiskLevels": {
            "High": "Високий",
            "Medium": "Середній",
@@ -122,7 +123,8 @@
         "Select/Create Filter": "Створити/вибрати фільтр",
         "Table filters": "Табличні фільтри",
         "All Of": "Всі",
-        "Any Of": "Будь-який"
+        "Any Of": "Будь-який",
+        "Filter": "Фільтрувати"
       },
       "Files": {
         "Attach New Documents": "Додати нові документи",
