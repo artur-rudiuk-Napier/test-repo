@@ -248,13 +248,6 @@
           "Case": "案件",
           "Alert": "警报"
         }
-      },
-         "Calendar": {
-          "Today": "今天",
-          "This Week": "本星期",
-          "This Month": "這個月",
-          "This Quarter": "本季度",
-          "This Year": "今年"
-        }
+      }
   }
 }
