@@ -56,6 +56,7 @@
         "Apply": "Застосувати",
         "N/A": "НД",
         "There are no items at this moment": "Нічого немає на данний момент",
+        "Summaty": "Підсумок",
         "RiskLevels": {
            "High": "Високий",
            "Medium": "Середній",
@@ -175,18 +176,6 @@
           "Alert": "Тривога"
         }
       },
-        "Calendar": {
-          "Today": "Сьогодні",
-          "This Week": "Поточний тиждень",
-          "This Month": "Поточний місяць",
-          "This Quarter": "Поточний квартал",
-          "This Year": "Поточний рік",
-          "Yesterday": "Вчора",
-          "Last Week": "Минулий тиждень",
-          "Last Month": "Минулий місяць",
-          "Last Quarter": "Минулий квартал",
-          "Last Year": "Минулий рік"
-        },
         "Menu": {
           "Main": {
             "Analytics": "Аналітика",
