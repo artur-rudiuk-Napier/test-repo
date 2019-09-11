@@ -154,7 +154,12 @@
           "Transaction Amount": "об'єм транзакцій",
           "Transaction Buckets": "розбивка транзакцій",
           "Transaction Count": "кількість транзакцій",
-          "Full Customer Details": "Повна інформація про клієнта"
+          "Full Customer Details": "Повна інформація про клієнта",
+          "Customer Number": "Номер клієнта",
+          "Customer Name": "Ім'я клієнта",
+          "Onboarding Date": "Дата зарахування в штат",
+          "Next KYC Refresh Date": "Наступна дата оновлення KYC",
+          "Risk Score": "Оцінка ризику"
       },
       "Task": {
         "Owned By": "Власник",
